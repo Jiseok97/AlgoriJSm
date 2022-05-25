@@ -3,8 +3,9 @@
 </br>
 
 ## Start 👨🏻‍💻 
- * Individual study
+ * Individual study → `Swift`
     * 21.09.04 ~
+    </br>
     
- * AC 7th
+ * AC 7th → `Python`
     * 22.05.18 ~
